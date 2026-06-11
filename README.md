@@ -10,7 +10,7 @@
 ## 📎 Project Resources
 
 * 📄 **Project Proposal:** https://github.com/pawaravinash0007/low-power-light-comparator/blob/main/TrackD_Proposal.pdf
-* 📊 **Presentation (PPT):** https://github.com/pawaravinash0007/low-power-light-comparator/blob/main/D13_Chipathon2026_PPT.pdf
+* 📊 **Presentation (PPT):** https://github.com/pawaravinash0007/low-power-light-comparator/blob/main/D13_PPT.pdf
 * 🎥 **Video Recording (3 min):** https://www.youtube.com/watch?v=1xWKAfr8HUc
 
 ---
