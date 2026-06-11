@@ -10,7 +10,7 @@
 ## 📎 Project Resources
 
 * 📄 **Project Proposal:** [View Document on Google Drive](https://drive.google.com/file/d/1N71czsPlFldA3GpTq3CE3IaL_Ldt-qY9/view?usp=sharing)
-* 📊 **Presentation (PPT):** [Add your PPT link here](#)
+* 📊 **Presentation (PPT):** https://github.com/pawaravinash0007/low-power-light-comparator/blob/main/D13_Chipathon2026_PPT.pdf
 * 🎥 **Video Recording (3 min):** [Add your Video link here](#)
 
 ---
