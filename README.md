@@ -44,8 +44,7 @@ This project proposes a **fully integrated CMOS analog comparator operating at 1
 ### 🖼️ Application Diagram
 <img width="615" height="337" alt="application diagram" src="https://github.com/user-attachments/assets/272cd286-c4c8-43f3-a2bc-194fe2ec2a75" />
 
-
-![Wearable Light Awareness System Diagram]
+Wearable Light Awareness System Diagram
 
 ---
 
