@@ -2,7 +2,7 @@
 
 | 🧑‍💻 Team Members | 💬 Discord | 💻 GitHub | 🏛️ Affiliation (Experience) | 🎯 Role |
 | :--- | :--- | :--- | :--- | :--- |
-| **Avinash Pawar** | `iiitsavipawar_90767` | `@username` | **IIIT Surat** <br> *(PhD Student)* | 👑 **Team Lead** |
+| **Avinash Pawar** | `iiitsavipawar_90767` | `@username` | **IIIT Surat** <br> *(PhD Student)* | 👑 **Team Lead** <br> ✉️ `ai.avinash0007@gmail.com`|
 | **Bidyut Maishal** | `bidyut02733` | `@username` | **ALIAH University** <br> *(BTech Student)* | 🛠️ **Team Member** <br> ✉️ `mail.bidyut.maishal@gmail.com` |
 
 ---
